@@ -1,7 +1,5 @@
-"engines": {
-  "node": ">=16"
-},
 {
+  "engines": { "node": ">=16" },
   "name": "onedrive-vercel-index",
   "version": "0.1.0",
   "private": true,
